@@ -69,6 +69,7 @@ nav ul li{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 .vowel_container{
     width: 100%;
@@ -78,6 +79,7 @@ nav ul li{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 .home_content{
     margin: auto;
