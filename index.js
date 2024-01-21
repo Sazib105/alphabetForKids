@@ -23,7 +23,7 @@ var col_index=0;
 var data_array=[];
 vowel.forEach(element => {
     const data=document.createElement('img');
-    data.src="image/"+element+".png";
+    data.src="image/"+element+".PNG";
     const audio=document.createElement("audio");
     audio.src="audio/"+ element + ".mp3";
     data_array.push(audio);
